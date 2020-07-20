@@ -12,11 +12,9 @@ This project aims to identify general feelings (negative/positive/neutral) of tw
 
 # Getting Started
 
-Language: Python<br/>
-
 ## Packages
 
-NumPy, Pandas, Matplotlib.Pyplot, tweepy, re, nltk, wordcloud, textblob
+Python: NumPy, Pandas, Matplotlib.Pyplot, tweepy, re, nltk, wordcloud, textblob
 
 ## Prerequisites
 
